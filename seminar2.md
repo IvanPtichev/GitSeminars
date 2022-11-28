@@ -12,4 +12,4 @@
 
 ## Conflicts
 
-* lfyyfz cnhjrf lj,fdktyf lkz jnhf,jnrb rjyakbrnf ghb ckbzybb
+* Конфликты при слиянии возникают, когда изменения сливаемых веток претендуют на общие участки рабочей области
