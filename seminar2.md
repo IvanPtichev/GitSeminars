@@ -8,4 +8,6 @@
 
 ## Brench merging
 
+* *git merge brench_name* - команда, осуществляющая слияние текущей ветки с branch_name
+
 ## Conflicts
