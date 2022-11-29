@@ -1,1 +1,1 @@
-# My renote repository
+# My remote repository
